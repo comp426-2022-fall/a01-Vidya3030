@@ -1,5 +1,5 @@
 // Require http module
-var https = require('https');
+var http = require('http');
 // Require fs module
 var fs = require('fs');
 // Require minimist module (make sure you install this one via npm).
